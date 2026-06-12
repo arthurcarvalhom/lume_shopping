@@ -103,7 +103,7 @@ img { max-width: 100%; display: block; }
 }
 .logo-img img {
   display: flex;
-  height: 70px;
+  height: 50px;
   width: auto;
 }
 .pixel-block {
